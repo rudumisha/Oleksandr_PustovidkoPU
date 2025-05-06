@@ -23,12 +23,16 @@ nav a {
 
 .logo {
     padding-right: 16px;
+    text-decoration: none;
+    color: white;
 }
 
 .webpage {
     background-color: #218800;
     border-radius: 8px;
     padding: 4px;
+    text-decoration: none;
+    color: white;
 }
 
 img {
